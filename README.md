@@ -7,6 +7,8 @@ Esta aplicación está diseñada para facilitar el acceso a símbolos especiales
 - **Visualización del código ASCII:** Cada vez que se selecciona un símbolo, se muestra su código ASCII en un área dedicada.  
 - **Diseño amigable:** La interfaz está pensada para ser minimalista y fácil de usar, ideal para cualquier persona que necesite acceder rápidamente a estos caracteres.  
 
+![Captura de Interfaz](images/Screenshot1.png)
+
 ## Ejemplo de uso:
 1. Abre la aplicación.  
 2. Haz clic en el botón del símbolo que necesites (por ejemplo, `#`).  
